@@ -5,6 +5,7 @@ import sys
 
 from ecommerce.settings import base
 
+
 def main():
     """Run administrative tasks."""
     if base.DEBUG:
